@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family:'Montserrat', sans-serif;
+}
+
+/* container of the button */
+.container{
+    position:relative;
+    padding: 0;
+    width: 100px;
+    top:500px;
+}
